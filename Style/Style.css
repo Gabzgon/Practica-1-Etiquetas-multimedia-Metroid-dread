@@ -1,3 +1,31 @@
 @charset "utf-8";
 /* CSS Document */
 
+
+body{
+
+    width: 100%;
+    background-image: linear-gradient(to top, #000000 0%, #2a324b 100%);
+}
+
+.card{
+
+    width: 80%;
+    padding: 25px;
+    transition: 0.3s;
+    margin: 35px auto;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.342)
+}
+
+h1 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
